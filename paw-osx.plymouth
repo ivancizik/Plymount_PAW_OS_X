@@ -4,7 +4,7 @@ Description=OS X like boot splash
 ModuleName=script
 
 [script]
-ImageDir=/lib/plymouth/themes/Paw-OSX
-ScriptFile=/lib/plymouth/themes/Paw-OSX/paw-osx.script
+ImageDir=/lib/plymouth/themes/Plymount_PAW_OS_X
+ScriptFile=/lib/plymouth/themes/Plymount_PAW_OS_X/paw-osx.script
 
 
